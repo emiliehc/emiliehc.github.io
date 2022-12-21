@@ -52624,7 +52624,7 @@ $0(){A.jY(A.IV("emiliehc.itch.io",null,"https"))},
 $S:0}
 A.mF.prototype={
 N(a){var s=null,r=t.E
-return A.a9g(A.dy(s,A.x2(A.dy(s,A.a9y(A.a([new A.dr(A.a([A.dy(s,B.J1,s,s,s,s,s,s),A.dy(s,s,s,s,s,s,s,s),A.dy(s,B.J3,s,s,s,s,s,s)],r)),new A.dr(A.a([A.dy(s,A.a9A(B.J0,new A.Rb(a)),s,s,s,s,B.kq,s),A.dy(s,s,s,s,s,s,s,s),A.dy(s,A.a9A(B.J5,new A.Rc(a)),s,s,s,s,B.kq,s)],r))],t.BR),B.CP),B.i,s,s,s,B.yf,s),s,s),s,B.ud,s,s,s,s),B.J4)}}
+return A.a9g(A.dy(s,A.x2(A.dy(s,A.a9y(A.a([new A.dr(A.a([A.dy(s,B.J1,s,s,s,s,s,s),A.dy(s,s,s,s,s,s,s,s),A.dy(s,B.J3,s,s,s,s,s,s)],r)),new A.dr(A.a([A.dy(s,A.a9A(B.J0,new A.Rb(a)),s,s,s,s,B.kq,s),A.dy(s,s,s,s,s,s,s,s),A.dy(s,A.a9A(B.J4,new A.Rc(a)),s,s,s,s,B.kq,s)],r))],t.BR),B.CP),B.i,s,s,s,B.yf,s),s,s),s,B.ud,s,s,s,s),B.J5)}}
 A.Rb.prototype={
 $0(){A.r6(this.a).oL("/home",new A.qF(B.kB),t.X)},
 $S:0}
@@ -56731,10 +56731,10 @@ B.J0=new A.hg("English",null,null,null,null)
 B.tp=new A.o(!0,null,null,null,null,null,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.J1=new A.hg("Welcome to Emilie Chen's personal website",null,B.tp,null,null)
 B.J3=new A.hg("Bienvenue au site web personnel d'Emilie Chen",null,B.tp,null,null)
+B.J4=new A.hg("Fran\xe7ais",null,null,null,null)
 B.xn=new A.M(4281149730)
 B.II=new A.o(!0,B.i,B.xn,null,null,null,5,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.J4=new A.hg("Derni\xe8re mise \xe0 jour : mar 20 d\xe9c 2022 00 h 09 HNE",null,B.II,null,null)
-B.J5=new A.hg("Fran\xe7ais",null,null,null,null)
+B.J5=new A.hg("Derni\xe8re mise \xe0 jour : mercredi 21 d\xe9c 2022 00 h 19 HNE",null,B.II,null,null)
 B.LF=new A.YO(0,"system")
 B.J6=new A.tN(null)
 B.ds=new A.Di(0,"clamp")
